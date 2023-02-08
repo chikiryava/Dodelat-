@@ -1,0 +1,10 @@
+C:\Users\305-11\Desktop\shvets\08.02\08.02\bin\Debug\08.02.exe.config
+C:\Users\305-11\Desktop\shvets\08.02\08.02\bin\Debug\08.02.exe
+C:\Users\305-11\Desktop\shvets\08.02\08.02\bin\Debug\08.02.pdb
+C:\Users\305-11\Desktop\shvets\08.02\08.02\obj\Debug\08.02.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\shvets\08.02\08.02\obj\Debug\_08._02.Form1.resources
+C:\Users\305-11\Desktop\shvets\08.02\08.02\obj\Debug\_08._02.Properties.Resources.resources
+C:\Users\305-11\Desktop\shvets\08.02\08.02\obj\Debug\08.02.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\shvets\08.02\08.02\obj\Debug\08.02.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\shvets\08.02\08.02\obj\Debug\08.02.exe
+C:\Users\305-11\Desktop\shvets\08.02\08.02\obj\Debug\08.02.pdb
